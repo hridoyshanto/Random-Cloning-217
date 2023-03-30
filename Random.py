@@ -1,0 +1,3 @@
+import Shanto
+
+Shanto.login()
